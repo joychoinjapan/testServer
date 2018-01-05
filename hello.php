@@ -6,3 +6,4 @@
  * Time: 3:17
  */
 echo "Hello ! Everyone";
+echo "This is a test page";
